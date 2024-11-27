@@ -62,7 +62,7 @@ The project is divided into distinct stages, as outlined below:
 ---
 
 ## 📋 **Architecture Overview**
-![Solution Architecture](images/architecture_diagram.png "Solution Architecture Diagram")  
+![Solution Architecture](Images/Solution_Architecture.png "Solution Architecture Diagram")  
 
 ---
 
