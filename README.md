@@ -27,7 +27,7 @@ The project is divided into distinct stages, as outlined below:
 7. **Documentation**: Comprehensive project documentation, GitHub README, and presentations.
 
 ### **Project Workflow**
-![Project Workflow](images/WorkFlow.png "WorkFlow")  
+![Project Workflow](Images/WorkFlow.png "WorkFlow")  
 
 ---
 
@@ -44,6 +44,8 @@ The project is divided into distinct stages, as outlined below:
 
 ### 4️⃣ **Ad Generation**  
 📢 Create engaging and customizable ads based on insights derived from customer reviews.  
+### **Project System modules**
+![Project solution](Images/Solution block diagram.png "Solution block diagram")  
 
 ---
 
