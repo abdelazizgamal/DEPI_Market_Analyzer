@@ -98,21 +98,6 @@ To simplify the process, you can use the provided shell scripts to manage the se
    ./kill_servers.sh
    ```
 
-
-### Running the Modules
-- **Web Server**:  
-  ```bash
-  streamlit run streamlit/home.py
-  ```
-- **Machine Learning Server**:  
-  ```bash
-  python ml_server.py
-  ```
-- **Price Predictor**:  
-  ```bash
-  python price_predictor.py
-  ```
-
 ---
 
 ## 🌟 **Key Insights**
