@@ -45,7 +45,7 @@ The project is divided into distinct stages, as outlined below:
 ### 4️⃣ **Ad Generation**  
 📢 Create engaging and customizable ads based on insights derived from customer reviews.  
 ### **Project System modules**
-![Project solution diagram](Images/Solution block diagram.png "Solution block diagram")  
+![Project Solution diagram](Images/Solution_block_diagram.png "Solution block diagram")  
   
 
 ---
@@ -110,13 +110,19 @@ The project is divided into distinct stages, as outlined below:
 ## 🌟 **Key Insights**
 ### Dashboard Screenshots
 #### Home Page  
-![Home Page](images/home_page.png "Dashboard Home")
+![Home Page](Images/home.png "Dashboard Home")
 
 #### Sentiment Analysis & Ad Creator  
-![Sentiment Analysis](images/sentiment_analysis.png "Sentiment Analysis Results")
+![Sentiment Analysis](Images/Sentiment_Analyzer.png "Sentiment Analysis")
+![Insights Result](Images/Insights.png "Sentiment Analysis Results")
+![AD Generation](Images/ad.png "Ad")
 
-#### Price Predictor  
-![Price Predictor](images/price_predictor.png "Price Prediction Screenshot")
+
+
+#### Price Predictors  
+![Price Predictor](Images/Price_Predictor.png.png "Price Prediction Screenshot")
+![Prediction_graph](Images/Prediction_graph.png "Price Prediction Screenshot")
+
 
 ---
 
@@ -130,9 +136,7 @@ The project is divided into distinct stages, as outlined below:
 ## 🤝 **Contributors**
 - Abdelaziz Gamal Ali Mohamed  
 - Ahmad Mohamed Ibrahim Mostafa  
-- Mahmoud Ahmed Mahmoud Alfakharany  
 - Moataz Gamal Ali Mohamed  
-- Mohamed Kamal AbdelHamid Ibrahim  
 - Osama Salaheldin Farag Abdulmottaleb  
 
 ---
