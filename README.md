@@ -127,10 +127,10 @@ To simplify the process, you can use the provided shell scripts to manage the se
 ---
 
 ## 🤝 **Contributors**
-- Abdelaziz Gamal Ali Mohamed  
+- Abdelaziz Gamal Ali Mohamed
+- Osama Salaheldin Farag Abdulmottaleb
 - Ahmad Mohamed Ibrahim Mostafa  
 - Moataz Gamal Ali Mohamed  
-- Osama Salaheldin Farag Abdulmottaleb  
 
 ---
 
