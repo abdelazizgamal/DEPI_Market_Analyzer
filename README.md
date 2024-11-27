@@ -120,7 +120,7 @@ The project is divided into distinct stages, as outlined below:
 
 
 #### Price Predictors  
-![Price Predictor](Images/Price_Predictor.png.png "Price Prediction Screenshot")
+![Price Predictor](Images/Price_Predictor.png "Price Prediction Screenshot")
 ![Prediction_graph](Images/Prediction_graph.png "Price Prediction Screenshot")
 
 
