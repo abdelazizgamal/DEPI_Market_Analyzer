@@ -45,7 +45,8 @@ The project is divided into distinct stages, as outlined below:
 ### 4️⃣ **Ad Generation**  
 📢 Create engaging and customizable ads based on insights derived from customer reviews.  
 ### **Project System modules**
-![Project solution](Images/Solution block diagram.png "Solution block diagram")  
+![Project solution diagram](Images/Solution block diagram.png "Solution block diagram")  
+  
 
 ---
 
