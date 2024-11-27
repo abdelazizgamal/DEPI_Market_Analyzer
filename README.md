@@ -14,6 +14,22 @@ This toolkit combines advanced data scraping, sentiment analysis, demand and pri
 - **📂 Data Insights**: Interactive visualizations and dashboards for better decision-making.
 
 ---
+## 🏗️ **Project Organization**
+
+The project is divided into distinct stages, as outlined below:  
+
+1. **Web Scraping**: Extracts product data from e-commerce websites (currently Amazon US).  
+2. **Sentiment Analysis**: Analyzes customer reviews to extract sentiments.  
+3. **Insight Extraction**: Summarizes key pros and cons from reviews.  
+4. **Prediction Models**: Uses historical price and demand data for forecasting.  
+5. **Ad Creation**: Generates customizable advertisements based on extracted insights.  
+6. **Dashboard**: Displays analysis results interactively.  
+7. **Documentation**: Comprehensive project documentation, GitHub README, and presentations.
+
+### **Project Workflow**
+![Project Workflow](images/project_workflow.png "Project Workflow Diagram")  
+
+---
 
 ## 🧠 **How It Works**
 
