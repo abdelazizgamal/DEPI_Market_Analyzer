@@ -80,16 +80,24 @@ The project is divided into distinct stages, as outlined below:
    cd your-repo
    ```
 
-2. Set up a virtual environment:  
+To simplify the process, you can use the provided shell scripts to manage the servers:
+
+1. **Run the Machine Learning Server**  
+   Execute the following script to initialize the ML server:
    ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
+   ./initialize_ml_server.sh
+   ```
+2. **Run the Web Server**  
+   Execute the following script to start the web server:
+   ```bash
+   ./initialize_web_server.sh
+   ```
+3. **Stop All Servers**  
+   To stop all running servers, use:
+   ```bash
+   ./kill_servers.sh
    ```
 
-3. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Running the Modules
 - **Web Server**:  
