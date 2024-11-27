@@ -27,7 +27,7 @@ The project is divided into distinct stages, as outlined below:
 7. **Documentation**: Comprehensive project documentation, GitHub README, and presentations.
 
 ### **Project Workflow**
-![Project Workflow](https://drive.google.com/file/d/1pCKPUo5CiFL2zcT7yNnrTusJpI3hydXp/view?usp=drive_link)  
+![Project Workflow]([https://drive.google.com/file/d/1pCKPUo5CiFL2zcT7yNnrTusJpI3hydXp/view?usp=drive_link](https://drive.google.com/file/d/1pCKPUo5CiFL2zcT7yNnrTusJpI3hydXp/view?usp=drive_link))  
 
 ---
 
